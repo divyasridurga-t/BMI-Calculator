@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(rgb(179, 248, 248), rgb(69, 235, 235), rgb(55, 156, 156));
+}
+
+#container1 {
+    height: 650px;
+    align-items: center;
+}
+
+#container2 {
+    width: 450px;
+    height: 560px;
+    box-shadow: 4px 4px 4px rgb(51, 56, 77);
+    border: 1px solid lightgrey;
+    background-image: linear-gradient(#0b397e, #004d7a, #008793);
+}
+
+#logo-heading {
+    font-size: 35px;
+}
+
+.modal {
+    background-color: aliceblue;
+}
+
+.modal-content {
+    background-image: linear-gradient(#004d7a, #008793)
+}
+
+#text {
+    font-size: 20px;
+}
+
+#emoji {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
