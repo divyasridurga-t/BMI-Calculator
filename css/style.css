@@ -8,7 +8,7 @@ body {
 }
 
 #container1 {
-    height: 650px;
+    height:600px;;
     display: flex;
     justify-content: center;
     align-items: center;
