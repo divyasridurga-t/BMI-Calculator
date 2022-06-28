@@ -1,17 +1,11 @@
-body {
+
+#container1 {
     width: 100%;
     background-image: linear-gradient(rgb(179, 248, 248), rgb(69, 235, 235), rgb(55, 156, 156));
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
-}
-
-#container1 {
-    height:600px;;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 #container2 {
@@ -42,4 +36,10 @@ body {
     font-size: 30px;
     display: flex;
     justify-content: center;
+}
+#container3{
+    display: flex;
+    justify-content:center;
+    color: white;
+    padding: 20px;
 }
