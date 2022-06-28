@@ -1,11 +1,14 @@
 body {
     background-image: linear-gradient(rgb(179, 248, 248), rgb(69, 235, 235), rgb(55, 156, 156));
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #container1 {
     height: 650px;
+    display: flex;
+    justify-content: center;
     align-items: center;
-    background-size: cover;
 }
 
 #container2 {
